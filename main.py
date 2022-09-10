@@ -1,11 +1,9 @@
-import config
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
 import matplotlib.pyplot as plt
 plt.rcdefaults()
-import numpy as np
 
 
 submission_dictionary = {}
