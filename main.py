@@ -3,11 +3,10 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
-import matplotlib.pyplot as plt;
-
+import matplotlib.pyplot as plt
 plt.rcdefaults()
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 submission_dictionary = {}
 fighter_roster = []
